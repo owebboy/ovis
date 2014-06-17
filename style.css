@@ -1,0 +1,29 @@
+html {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  margin: 3em 20%;
+  background: #fff;
+  color: #111;
+}
+
+small {
+  color: #aaa;
+  font-weight: 300;
+}
+
+p {
+	font-weight: 300;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+h2 {
+	margin: 0;
+}
+
+hr {
+	border: 0;
+	border-bottom: 3px solid #aaa;
+}
